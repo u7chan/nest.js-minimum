@@ -1,2 +1,2 @@
-export { AsyncController } from './controller';
-export { AsyncService } from './service';
+export { AsyncController } from './controller'
+export { AsyncService } from './service'

@@ -1,7 +1,7 @@
-import { Module } from '@nestjs/common';
-import { AsyncController, AsyncService } from './async';
-import { HelloController } from './hello';
-import { HelloService } from './hello';
+import { Module } from '@nestjs/common'
+import { AsyncController, AsyncService } from './async'
+import { HelloController } from './hello'
+import { HelloService } from './hello'
 
 @Module({
   imports: [],
