@@ -1,7 +1,6 @@
 import { Module } from '@nestjs/common'
+import { HelloController, HelloService } from './hello'
 import { AsyncController, AsyncService } from './async'
-import { HelloController } from './hello'
-import { HelloService } from './hello'
 
 @Module({
   imports: [],
